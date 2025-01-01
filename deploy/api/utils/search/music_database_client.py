@@ -1,4 +1,4 @@
-import logging
+import logging 
 import time
 
 from pymilvus import MilvusClient
@@ -28,7 +28,7 @@ class MusicDatabaseClient(object):
         self.milvus_client = MilvusClient(uri=url, db_name=self.db_name)
 
     def search_embeddings(self, embeddings):
-        """
+        """self.url
         Split the query embeddings if its size larger than
         the search limit and send those splited search requests.
         """
