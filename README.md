@@ -113,4 +113,4 @@ Video demo: [Google Drive link](https://drive.google.com/file/d/1JjCVqMwW-2azgwT
 If you find any issues or have suggestions for improvements, please feel free to open an issue or send me an email via nguyenduchuy1711@gmail.com.
 
 ## Credits
-This project was developed by @Huy1711 and uses the [Suno API](https://suno.com/) to generate and fetch music data.
+This project was developed by @Huy1711 and uses the [Suno API](https://suno.com/) to generate and fetch music data.https://boomy.com/https://www.udio.com/login?redirect=%2Fmy-creations
