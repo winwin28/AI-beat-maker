@@ -1,4 +1,12 @@
-"""This script extract audio files in the folder EXTRACT_FOLDER into embeddings
+"""This script extract audio files in the folder EXTRACT_FOLDER into embeddingsrequests
+omegaconf
+numpy
+soundfile
+torchaudio
+tritonclient[all]
+pymilvus==2.3.7
+kaggle
+tqdm
 and add to Milvus Vector DB. The extract and adding can be faster using multiprocessing.
 """
 
