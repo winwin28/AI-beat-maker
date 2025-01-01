@@ -3,7 +3,7 @@ from typing import List
 from pydantic import BaseModel, Field
 
 
-class SunoInitParam(BaseModel):
+class SunoInitParam(BaseModel):https://github.com/winwin28/AI-beat-maker/blob/main/deploy%2Fapi%2Fschemas.py
     session_id: str = Field(..., description="Suno Session ID")
     cookie: str = Field(..., description="Suno Cookie")
 
