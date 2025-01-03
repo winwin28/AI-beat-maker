@@ -63,3 +63,4 @@ if uploaded_file and query_ready:
                 start_time=start_time,
                 end_time=end_time,
             )
+run:
